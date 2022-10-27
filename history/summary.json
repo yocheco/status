@@ -1,22 +1,22 @@
 [
   {
     "name": "Portainer",
-    "url": "https://8e1bcf3db52a9aa4.p21.rt3.io/",
-    "icon": "https://icons.duckduckgo.com/ip3/8e1bcf3db52a9aa4.p21.rt3.io.ico",
+    "url": "https://f496a0a03bd65746.p18.rt3.io/",
+    "icon": "https://icons.duckduckgo.com/ip3/f496a0a03bd65746.p18.rt3.io.ico",
     "slug": "portainer",
-    "status": "down",
-    "uptime": "10.65%",
-    "uptimeDay": "10.65%",
-    "uptimeWeek": "10.65%",
-    "uptimeMonth": "10.65%",
-    "uptimeYear": "10.65%",
-    "time": 1363,
-    "timeDay": 1363,
-    "timeWeek": 1363,
-    "timeMonth": 1363,
-    "timeYear": 1363,
+    "status": "up",
+    "uptime": "10.01%",
+    "uptimeDay": "10.01%",
+    "uptimeWeek": "10.01%",
+    "uptimeMonth": "10.01%",
+    "uptimeYear": "10.01%",
+    "time": 1170,
+    "timeDay": 1170,
+    "timeWeek": 1170,
+    "timeMonth": 1170,
+    "timeYear": 1170,
     "dailyMinutesDown": {
-      "2022-10-27": 82,
+      "2022-10-27": 112,
       "2022-10-26": 347
     }
   }
